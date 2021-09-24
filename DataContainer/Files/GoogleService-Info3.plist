@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>837184026732-m7l0qio4rtnereq6iuf224ppb0dph49e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.837184026732-m7l0qio4rtnereq6iuf224ppb0dph49e</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>837184026732-eus5caiadtq64m42j0gmongpoh4n5tbd.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBCikWAg8rwOrUoS7OULXWLR_44AIosSRs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>837184026732</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.Firebase</string>
+	<key>PROJECT_ID</key>
+	<string>dateafrica-41181</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dateafrica-41181.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:837184026732:ios:e0d32466e248e419888049</string>
+	<key>DATABASE_URL</key>
+	<string>https://dateafrica-41181.firebaseio.com</string>
+</dict>
+</plist>

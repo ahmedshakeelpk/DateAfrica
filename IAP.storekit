@@ -1,0 +1,194 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "59DBD912",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "monthly01",
+      "referenceName" : "Basic",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "11.97",
+      "familyShareable" : false,
+      "internalID" : "6D2D2AF0",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "basic3m",
+      "referenceName" : "Basic2",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "22.94",
+      "familyShareable" : false,
+      "internalID" : "800A6EE0",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "basic6months",
+      "referenceName" : "Basic3",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "46.88",
+      "familyShareable" : false,
+      "internalID" : "CF10B93D",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.temporary.id",
+      "referenceName" : "Basic4",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "CC853BC3",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "silvermonthly",
+      "referenceName" : "Silver",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "13.17",
+      "familyShareable" : false,
+      "internalID" : "26670C03",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "silver3months",
+      "referenceName" : "Silver2",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "28.94",
+      "familyShareable" : false,
+      "internalID" : "C24F20F5",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "monthly01",
+      "referenceName" : "Silver3",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "58.88",
+      "familyShareable" : false,
+      "internalID" : "3FA6B4AD",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "monthly01",
+      "referenceName" : "Silver4",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "16B39663",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "monthly01",
+      "referenceName" : "Gold",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "A72B17C0",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "monthly01",
+      "referenceName" : "Gold2",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "5F66D603",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "monthly01",
+      "referenceName" : "Gold3",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "0471BCBE",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "monthly01",
+      "referenceName" : "Gold4",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
